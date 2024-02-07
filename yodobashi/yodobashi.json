@@ -1,0 +1,2192 @@
+[
+    {
+        "maker": "エイスース ASUS",
+        "name": "S500SD-I512400LU [デスクトップパソコン/Core i5-12400/メモリ 16GB/SSD 512GB/Windows 11 Home/WPS Office 2 Standard Edition/ブラック]",
+        "price": "￥129,800"
+    },
+    {
+        "maker": "富士通 FUJITSU",
+        "name": "FMVF60G3WC [デスクトップパソコン FMV/FHシリーズ/23.8型Full HD/Core i5-1135G7/メモリ 16GB/SSD 256GB ＋ HDD 1TB/Sマルチ/Windows 11 Home 64ビット/Office Home and Business 2021/ホワイト/ヨドバシカメラ限定モデル]",
+        "price": "￥199,800"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "UM580B-32/512-W11Pro（5800H） [小型デスクトップパソコン/Ryzen7 5800H/メモリ 32GB/SSD 512GB/Windows 11 Pro]",
+        "price": "￥83,680"
+    },
+    {
+        "maker": "富士通 FUJITSU",
+        "name": "FMVF77G3B [デスクトップパソコン FMV/FHシリーズ/23.8型Full HD/Core i7-1165G7/メモリ 16GB/SSD 256GB ＋ HDD 1TB/BDXL/TVチューナー/Windows 11 Home 64ビット/Office Home and Business 2021/ブラック]",
+        "price": "￥209,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "SI70-DNHB [スモールデスクトップ/Inspiron 3020S スモールデスクトップ/Core i7-13700/UHD グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ブラック]",
+        "price": "￥191,800"
+    },
+    {
+        "maker": "富士通 FUJITSU",
+        "name": "FMVF60G3W [デスクトップパソコン FMV/FHシリーズ/23.8型Full HD/Core i5-1135G7/メモリ 8GB/SSD 512GB/Sマルチ/Windows 11 Home 64ビット/Office Home and Business 2021/ホワイト]",
+        "price": "￥161,420"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90SM0064JP [デスクトップPC/IdeaCentre 370i/ Core i5/HDD 1TB+SSD 256GB/メモリ 8GB/Windows 11 Home /Microsoft Office Home ＆ Business 2021/グレー]",
+        "price": "￥128,480"
+    },
+    {
+        "maker": "HP",
+        "name": "6K5C3PA-AAAC [デスクトップパソコン HP 24-ck0000 AiO G1モデル/23.8型/Core i5-1235U/メモリ 8GB/SSD 256GB＋HDD 2TB/ Windows 11 Home/Office Home ＆ Business 2021/スターリーホワイト]",
+        "price": "￥169,800"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90SM0065JP [デスクトップPC/IdeaCentre 370i/ Core i5/HDD 1TB+SSD 256GB/メモリ 8GB/Windows 11 Home/グレー]",
+        "price": "￥106,480"
+    },
+    {
+        "maker": "富士通 FUJITSU",
+        "name": "FMVF90H2B [デスクトップパソコン FMV/FHシリーズ/27型WQHD/Core i7-1260P/メモリ 16GB /SSD 512GB ＋ HDD 1TB/Windows 11 Home/Office Home ＆ Business 2021/ブラック]",
+        "price": "￥259,800"
+    },
+    {
+        "maker": "HP",
+        "name": "52M18PA-AAAA [HP Pavilion Desktop TP01-2000 G1モデル Ryzen 7 5700G/メモリ 16GB/SSD 256GB＋HDD 1TB/Windows 11 Home/ナチュラルシルバー]",
+        "price": "￥129,800"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "G10CE-I5R2060SBY [ゲーミングデスクトップパソコン/ROG Strix G10CE/Core i5-11400F/GeForce RTX 2060 SUPER/メモリ 16GB/SSD 512GB/Windows 11 Home/グレー]",
+        "price": "￥114,800"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "F0GH00CSJP [一体型デスクトップパソコン IdeaCentre AIO 370i/23.8型/Core i7/メモリ 8GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ブラック]",
+        "price": "￥157,080"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI779T-DNHBWC [一体型デスクトップ/Inspiron 27 7720 オールインワン/27.0型/Core i7-1355U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB＋HDD 1TB/Windows 11 Home/Office Home ＆ Business 2021/パールホワイト]",
+        "price": "￥245,800"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "G10CE-I7R2060SBY32 [ゲーミング デスクトップ/ROG Strix/Core i7-11700/GeForce RTX 2060 SUPER/メモリ 32GB/SSD 1TB/Windows 11 Home/グレー]",
+        "price": "￥164,800"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "S500SD-G7400LU [デスクトップパソコン/Pentium Gold G7400/メモリ 8GB/SSD 256GB/Windows 11 Home/WPS Office2 Standard Edition/ブラック]",
+        "price": "￥84,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "SI60-DNHB [スモールデスクトップ/Inspiron 3020S スモールデスクトップ/Core i5-13400/UHD グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ブラック]",
+        "price": "￥156,800"
+    },
+    {
+        "maker": "NEC エヌイーシー",
+        "name": "PC-A2377GAB [デスクトップパソコン LAVIE/23.8型Full HD/AMD Ryzen7 7730U/メモリ 16GB/SSD 1TB/BDXL/TVチューナー/Windows 11 Home/Office Home ＆ Business 2021/ファインブラック]",
+        "price": "￥239,340"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "F0GH00CRJP [一体型デスクトップパソコン IdeaCentre AIO 370i/23.8型/Core i3/メモリ 8GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ブラック]",
+        "price": "￥140,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "SI30-DNL [スモールデスクトップ/Inspiron 3020S スモールデスクトップ/Core i3-13100/UHD グラフィックス/メモリ 8GB/SSD 256GB/Windows 11 Home/ブラック]",
+        "price": "￥97,800"
+    },
+    {
+        "maker": "HP",
+        "name": "52M18PA-AABV [デスクトップパソコン/HP Pavilion Desktop TP01-2000 G1モデル/Ryzen 7 5700G/メモリ 16GB/SSD 256GB＋HDD 1TB/Windows 11 Home/Office Home ＆ Business 2021/ナチュラルシルバー]",
+        "price": "￥154,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "SI50-DNHB [スモールデスクトップ/Inspiron 3020S スモールデスクトップ/Core i5-13400/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ブラック]",
+        "price": "￥143,800"
+    },
+    {
+        "maker": "NEC エヌイーシー",
+        "name": "PC-A2355GAB-YC [デスクトップパソコン LAVIE/23.8型Full HD/AMD Ryzen5 7530U/メモリ 16GB/SSD 512GB/DVD/Windows 11 Home/Office Home ＆ Business 2021/ファインブラック/ヨドバシカメラ限定モデル]",
+        "price": "￥214,280"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "SI70-DNL [スモールデスクトップ/Inspiron 3020S スモールデスクトップ/Core i7-13700/UHD グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/ブラック]",
+        "price": "￥169,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI779T-DNLWC [一体型デスクトップ/Inspiron 27 7720 オールインワン/27.0型/Core i7-1355U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB＋HDD 1TB/Windows 11 Home/パールホワイト]",
+        "price": "￥223,800"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "TH60-16/512-W11Pro（11400H） [小型デスクトップパソコン/Core i5-11400H/UHD Graphics/メモリ 16GB/SSD 512GB/Windows 11 Pro]",
+        "price": "￥84,190"
+    },
+    {
+        "maker": "HP",
+        "name": "613V6PA-AAAG [一体型デスクトップパソコン/HP 27-cb0000 AiO G1モデル/27型/Ryzen 5 5500U/メモリ 8GB/SSD 256GB＋HDD 2TB/Windows 11 Home/Office Home ＆ Business 2021/スターリーホワイト]",
+        "price": "￥185,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "DI60-CWL [Inspiron 3910 デスクトップ/Corei5 12400F/メモリ16GB DDR4/GTX 1660 SUPER/SSD 512GB/Windows 11 Home/ブラック]",
+        "price": "￥144,800"
+    },
+    {
+        "maker": "NEC エヌイーシー",
+        "name": "PC-A2797GAB [デスクトップパソコン LAVIE/27.0型Full HD/AMD Ryzen7 7730U/メモリ 16GB/SSD 1TB/BDXL/TVチューナー/Windows 11 Home/Office Home ＆ Business 2021/ファインブラック]",
+        "price": "￥259,060"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90SM0062JP [デスクトップPC/ IdeaCentre 370i/ Core i3/HDD 1TB/メモリ 8GB/Windows 11 Home /グレー]",
+        "price": "￥95,480"
+    },
+    {
+        "maker": "NEC エヌイーシー",
+        "name": "PC-A2365GAB [デスクトップパソコン LAVIE/23.8型Full HD/AMD Ryzen7 7730U/メモリ 16GB/SSD 512GB/DVD/Windows 11 Home/Office Home ＆ Business 2021/ファインブラック]",
+        "price": "￥208,760"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "G15DK-R75G1660TW11 [ゲーミングデスクトップパソコン ROG Strix GA15 （G15DK）/Ryzen 7 5800X/GTX 1660 Ti/メモリ 16GB/SSD 512GB/Windows 11 Home/ブラック]",
+        "price": "￥159,800"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/7コアGPU/SSD 256GB/メモリ 8GB/シルバー [MGTF3J/A]",
+        "price": "￥174,800"
+    },
+    {
+        "maker": "HP",
+        "name": "52P36PA-AAAZ [デスクトップパソコン/HP Pavilion Desktop TP01-2000 G1モデル/Ryzen 5 5600G/メモリ 8GB/SSD 256GB＋HDD 1TB/Windows 11 Home/Office Home ＆ Business 2021/ナチュラルシルバー]",
+        "price": "￥129,800"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/8コアGPU/SSD 256GB/メモリ 8GB/シルバー [MGPC3J/A]",
+        "price": "￥202,800"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/7コアGPU/SSD 256GB/メモリ 8GB/ブルー [MJV93J/A]",
+        "price": "￥174,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "SI60-DNL [スモールデスクトップ/Inspiron 3020S スモールデスクトップ/Core i5-13400/UHD グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/ブラック]",
+        "price": "￥134,800"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/8コアGPU/SSD 512GB/メモリ 8GB/ブルー [MGPL3J/A]",
+        "price": "￥230,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI567T-DNLBC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i5-1335U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/ダークシャドウグレー]",
+        "price": "￥175,800"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90SM0061JP [デスクトップPC/ IdeaCentre 370i/ Core i3/HDD 1TB/メモリ 8GB/Windows 11 Home /Microsoft Office Home ＆ Business 2021/グレー]",
+        "price": "￥117,480"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/8コアGPU/SSD 256GB/メモリ 8GB/グリーン [MGPH3J/A]",
+        "price": "￥202,800"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "NAB0-16/512-W11Pro（1240P） [ミニパソコン/Core i5-1240P/Iris Xe Graphics eligible/メモリ 16GB/SSD 512GB/Windows 11 Pro]",
+        "price": "￥104,800"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "UM690-32/512-W11Pro（6900HX） [小型デスクトップパソコン/Ryzen 9 6900HX/メモリ 32GB/SSD 512GB/Windows 11 Pro]",
+        "price": "￥124,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "SI30-DNHB [スモールデスクトップ/Inspiron 3020S スモールデスクトップ/Core i3-13100/UHD グラフィックス/メモリ 8GB/SSD 256GB/Windows 11 Home/Office Home ＆ Business 2021/ブラック]",
+        "price": "￥119,800"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90VH004LJP [ゲーミングデスクトップパソコン/LOQ Tower 17IRB8/Core i5-13400F/GeForce GTX 1660 SUPER/メモリ 16GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business2021/ブラック]",
+        "price": "￥184,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI577T-DNHBBC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i7-1355U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ダークシャドウグレー]",
+        "price": "￥215,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "DX70-CHLC [XPS 8950 デスクトップ/ゲーミングデスクトップ/第12世代インテル Core i7 12700/メモリ16GB DDR5/SSD 256GB+HDD 1TB/Windows 11 Home/NVIDIA GeForce GTX 1650 SUPER/ナイトスカイ]",
+        "price": "￥199,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI567T-DNHBBC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i5-1335U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ダークシャドウグレー]",
+        "price": "￥197,800"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90SM0067JP [デスクトップPC/ IdeaCentre 370i/ Core i7/HDD 1TB+SSD 256GB/メモリ 8GB/Windows 11 Home /Microsoft Office Home ＆ Business 2021/グレー]",
+        "price": "￥164,780"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-CAPSET1 [キーボードマルチカバー シャワーキャップタイプ 大サイズ 3枚セット]",
+        "price": "￥1,600"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "NPB7-32/1T-W11Pro（13700H） [ミニパソコン/Core i7-13700H/メモリ 32GB/SSD 1TB/Windows 11 Pro]",
+        "price": "￥142,480"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI557-DNHBWC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i5-1335U/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/パールホワイト]",
+        "price": "￥179,800"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/7コアGPU/SSD 256GB/メモリ 8GB/グリーン [MJV83J/A]",
+        "price": "￥174,800"
+    },
+    {
+        "maker": "HP",
+        "name": "52M17PA-AAAQ [デスクトップパソコン/HP Pavilion Desktop TP01-2000 G1モデル/Ryzen 3 5300G/メモリ 8GB/SSD 256GB＋HDD 1TB/Windows 11 Home/Office Home ＆ Business 2021/ナチュラルシルバー]",
+        "price": "￥119,800"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "PKU-FREE1 [ピタッとシートSUPER デスクトップ用]",
+        "price": "￥973"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "UM330-8/256-W10Pro（3300U） [小型デスクトップパソコン/Ryzen3 3300U/メモリ 8GB/SSD 256GB/Windows 10 Pro]",
+        "price": "￥47,750"
+    },
+    {
+        "maker": "HP",
+        "name": "6K5C3PA-AAAA [デスクトップパソコン HP 24-ck0000 AiO G1モデル/23.8型/Core i5-1235U/メモリ 8GB/SSD 256GB＋HDD 2TB/ Windows 11 Home/スターリーホワイト]",
+        "price": "￥144,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "RR536T-1500-YC31-1 [ゲーミングデスクトップパソコン/ガレリア/Core i5-13400F/RTX 3060Ti/メモリ 16GB/SSD 500GB/Windows 11 Home]",
+        "price": "￥269,980"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "M3700WY-R75825LU [液晶一体型パソコン/Aio/27型/Ryzen 7 5825U/メモリ 16GB/SSD 512GB＋HDD 1TB/Windows 11 Home/Office Home ＆ Business 2021/ホワイト]",
+        "price": "￥189,800"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90VH004NJP [ゲーミングデスクトップパソコン/LOQ Tower 17IRB8/Core i7-13700F/GeForce RTX 3060（LHR）/メモリ 16GB/SSD 1TB/Windows 11 Home/ブラック]",
+        "price": "￥242,000"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "PN64-S7303AD [超小型ミニパソコン/Core i7-13700H/メモリ 16GB/SSD 256GB/Windows 11 Home/ブラック]",
+        "price": "￥138,470"
+    },
+    {
+        "maker": "NEC エヌイーシー",
+        "name": "PC-A2355GAB [デスクトップパソコン LAVIE/23.8型Full HD/AMD Ryzen5 7530U/メモリ 8GB/SSD 512GB/DVD/Windows 11 Home/Office Home ＆ Business 2021/ファインブラック]",
+        "price": "￥184,800"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "UN100-16/256-W11Pro（N100） [ミニパソコン/Intel N100/メモリ 16GB/SSD 256GB/Windows 11 Pro]",
+        "price": "￥45,580"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI7G60YC45CNHB3 [ゲーミングデスクトップパソコン G-Tune/Core i7-13700F/メモリ 64GB/SSD 500GB/GeForce RTX 4060/Windows 11 Home]",
+        "price": "￥269,800"
+    },
+    {
+        "maker": "HP",
+        "name": "613V7PA-AAAL [一体型デスクトップパソコン/HP 27-cb0000 AiO G1モデル/27型/Ryzen 7 5700U/メモリ 16GB/SSD 512GB＋HDD 2TB/Windows 11 Home/Office Home ＆ Business 2021/スターリーホワイト]",
+        "price": "￥200,800"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-MULTI [キーボードマルチカバー デスクトップ用]",
+        "price": "￥979"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "NPB7-32/512-W11Pro（13700H） [ミニパソコン/Core i7-13700H/メモリ 32GB/SSD 512GB/Windows 11 Pro]",
+        "price": "￥134,000"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "UM330-8/256-W11Pro（3300U） [小型デスクトップパソコン/Ryzen3 3300U/メモリ 8GB/SSD 256GB/Windows 11 Pro]",
+        "price": "￥50,570"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/8コアGPU/SSD 512GB/メモリ 8GB/シルバー [MGPD3J/A]",
+        "price": "￥230,800"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/7コアGPU/SSD 256GB/メモリ 8GB/ピンク [MJVA3J/A]",
+        "price": "￥174,800"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "PN64-S3301AD [超小型ミニパソコン/Core i3-1220P/メモリ 8GB/SSD 256GB/Windows 11 Home/ブラック]",
+        "price": "￥75,110"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90SM0063JP [デスクトップPC/ IdeaCentre 370i / Pentium Gold G7400/HDD 1TB/メモリ 4GB/Windows 11 Home /Microsoft Office Home ＆ Business 2021/グレー]",
+        "price": "￥104,280"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "DX90VR-CHLC [XPS 8950 デスクトップ/ゲーミングデスクトップ/第12世代インテル Core i7 12700/メモリ16GB DDR5/SSD 512GB+HDD 1TB/Windows 11 Home/NVIDIA GeForce RTX 3060 LHR/ナイトスカイ]",
+        "price": "￥249,800"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-HMAC4 [Apple Magic Keyboard用 キーボードカバー]",
+        "price": "￥1,540"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-MULTI3 [109フルキーボード用 キーボードマルチカバー]",
+        "price": "￥682"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ZR7K47T-1100-YC31-1 [ゲーミングデスクトップパソコン/ガレリア/Core i7-13700KF/RTX 4070Ti/メモリ 16GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥549,980"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI567T-DNHBWC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i5-1335U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/パールホワイト]",
+        "price": "￥197,800"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "PN53-S7099AD [超小型ミニパソコン/Ryzen 7 7735H/メモリ 16GB/SSD 256GB/Windows 11 Home/ブラック]",
+        "price": "￥115,520"
+    },
+    {
+        "maker": "HP",
+        "name": "52P36PA-AAAA [HP Pavilion Desktop TP01-2000 G1モデル Ryzen 5 5600G/メモリ 8GB/SSD 256GB＋HDD 1TB/Windows 11 Home/ナチュラルシルバー]",
+        "price": "￥104,800"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "M3700WY-R55625LU [液晶一体型パソコン/Aio/27型/Ryzen 5 5625U/メモリ 8GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ホワイト]",
+        "price": "￥149,800"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/8コアGPU/SSD 256GB/メモリ 8GB/ピンク [MGPM3J/A]",
+        "price": "￥202,800"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "GTMPCM127G307P22H [ゲーミングデスクトップパソコン/Core i7/メモリ 16GB/SSD 1TB （NVMe）/HDD 4TB/GeForce RTX 3070/DVDスーパーマルチドライブ/Windows11 Pro]",
+        "price": "￥389,800"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/8コアGPU/SSD 256GB/メモリ 8GB/ブルー [MGPK3J/A]",
+        "price": "￥202,800"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90SM0066JP [デスクトップPC/IdeaCentre 370i/ Core i7/HDD 1TB+SSD 256GB/メモリ 8GB/Windows 11 Home /グレー]",
+        "price": "￥142,780"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "UM580B-16/512-W11Pro（5800H） [小型デスクトップパソコン/Ryzen7 5800H/メモリ 16GB/SSD 512GB/Windows 11 Pro]",
+        "price": "￥83,660"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90VH004KJP [ゲーミングデスクトップパソコン/LOQ Tower 17IRB8/Core i5-13400F/GeForce GTX 1660 SUPER/メモリ 16GB/SSD 512GB/Windows 11 Home/ブラック]",
+        "price": "￥162,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI779T-DNLBC [一体型デスクトップ/Inspiron 27 7720 オールインワン/27.0型/Core i7-1355U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB＋HDD 1TB/Windows 11 Home/ダークシャドウグレー]",
+        "price": "￥223,800"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "UN305-16/256-W11Pro（N305） [ミニパソコン/Core i3-N305/メモリ 16GB/SSD 256GB/Windows 11 Pro]",
+        "price": "￥63,890"
+    },
+    {
+        "maker": "HP",
+        "name": "613V7PA-AAAA [一体型デスクトップ HP 27-cb0000 AiO G1モデル/Ryzen 7/メモリ 16GB/SSD 512GB＋HDD 2TB/Windows 11 Home/スターリーホワイト]",
+        "price": "￥183,700"
+    },
+    {
+        "maker": "エイサー Acer",
+        "name": "PO3-650-H76Z/307A [ゲーミングデスクトップ/Predator Orion 3000/Core i7-13700F/GeForce RTX 3070/メモリ 16GB/SSD 1TB/Windows 11 Home/ブラック]",
+        "price": "￥198,800"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90V70044JM [ゲーミングデスクトップパソコン/LegionTower 7i Gen8/Corei7-13700KF/GeForce RTX4080/メモリ 32GB/HDD2TB＋SSD2TB/Windows 11 Home/グレー]",
+        "price": "￥550,000"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI577T-DNLWC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i7-1355U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/パールホワイト]",
+        "price": "￥193,800"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "N40-4/64-W10Pro（N4020） [小型デスクトップパソコン/CPU：Intel Celeron Processor N4020/メモリ：4GB/ストレージ：eMMC 64GB/Windows 10 Pro 64bit]",
+        "price": "￥27,500"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI537-DNLWC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i3-1315U/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/パールホワイト]",
+        "price": "￥137,000"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI537-DNHBWC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i3-1315U/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/パールホワイト]",
+        "price": "￥159,800"
+    },
+    {
+        "maker": "ECS イーシーエス",
+        "name": "LIVAZ3-4/64-W11Pro（N5100） [小型デスクトップパソコン/Celeron Processor N5100/メモリ 4GB/eMMC 64GB/Windows 11 Pro]",
+        "price": "￥51,780"
+    },
+    {
+        "maker": "レイトレック raytrek",
+        "name": "4CR7F-47-6100 R32 [デスクトップパソコン/レイトレック/Core i7-13700F/GeForce RTX 4070 12GB GDDR6X/メモリ 64GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥349,980"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-NX15N [NEC Mate USB 109キーボード用シリコンキーボードカバー]",
+        "price": "￥1,700"
+    },
+    {
+        "maker": "HP",
+        "name": "52M17PA-AAAA [HP Pavilion Desktop TP01-2000 G1モデル Ryzen 3 5300G/メモリ 8GB/SSD 256GB＋HDD 1TB/Windows 11 Home/ナチュラルシルバー]",
+        "price": "￥94,800"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "GK41-8/128-W11Pro（J4125） [ミニPC/Celeron J4125/メモリ 8GB/SSD 128GB/Windows 11 Pro]",
+        "price": "￥35,000"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "PN64-S5302AD [超小型ミニパソコン/Core i5-13500H/メモリ 8GB/SSD 256GB/Windows 11 Home/ブラック]",
+        "price": "￥109,100"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/8コアGPU/SSD 512GB/メモリ 8GB/グリーン [MGPJ3J/A]",
+        "price": "￥230,800"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-TNX16 [NEC VALUESTAR W・Nシリーズ用キーボードカバー]",
+        "price": "￥1,040"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "A3402WBAK-I31215LU [デスクトップパソコン/ASUS A3402WBAK/23.8型/Core i3-1215U/メモリ 8GB/SSD 512GB/Windows 11 Home/ブラック]",
+        "price": "￥114,600"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-FMV327N [シリコンキーボードカバー]",
+        "price": "￥1,880"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "GTSPCMI124G305P22H [スリムゲーミングデスクトップパソコン/Core i5/メモリ 16GB/SSD 1TB （NVMe）/HDD 1TB/GeForce RTX 3050/DVDスーパーマルチドライブ/Windows11 Pro]",
+        "price": "￥269,800"
+    },
+    {
+        "maker": "MSI エムエスアイ",
+        "name": "Trident AS 13NUC7-493JP [ゲーミングデスクトップPC Core i7-13700F/GeForce RTX 4060/メモリ 16GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥294,170"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "M5401WYAK-WA031WS [デスクトップパソコン/ASUS ZenAiO 24 M5401WYAK/23.8型/Ryzen 7 5825U/メモリ 16GB/SSD 512G/HDD 1TB/Windows 11 Home/Office Home ＆ Business 2021/ホワイト]",
+        "price": "￥199,800"
+    },
+    {
+        "maker": "ストーム STORM",
+        "name": "YDS-ME7AH16160T [ゲーミングデスクトップパソコン/Core i7-12700/メモリ 16GB/SSD 1TB/GeForce RTX 3060 Ti/Windows 11 Home]",
+        "price": "￥226,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "DI80-CWL [Inspiron 3910 デスクトップ/Corei7 12700F/メモリ16GB DDR4/GTX 1660 SUPER/SSD 512GB/Windows 11 Home/ブラック]",
+        "price": "￥169,600"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "DX100VR-CHLC [XPS 8950 デスクトップ/ゲーミングデスクトップ/第12世代インテル Core i7 12700K/メモリ16GB DDR5/SSD 512GB+HDD 1TB/Windows 11 Home/NVIDIA GeForce RTX 3060 Ti LHR/プラチナシルバー]",
+        "price": "￥266,830"
+    },
+    {
+        "maker": "エイサー Acer",
+        "name": "RN96-F58Y [Revo Box/Core i5-1135G7/メモリ 8GB/512GB SSD/Windows 11 Home（64bit）/ブラック]",
+        "price": "￥94,800"
+    },
+    {
+        "maker": "マイクロソフト Microsoft",
+        "name": "SBF-00009 [Surface Studio 2+（サーフェス スタジオ 2プラス）/28インチ PixelSense/Core i7/メモリ 32GB/SSD 1TB/GeForce RTX 3060 Laptop GPU/Windows 11 Pro/Office Home and Business 2021/プラチナ]",
+        "price": "￥719,180"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "DX80VR-CHLC [XPS 8950 デスクトップ/ゲーミングデスクトップ/第12世代インテル Core i7 12700/メモリ16GB DDR5/SSD 512GB+HDD 1TB/Windows 11 Home/NVIDIA GeForce GTX 1660Ti/ナイトスカイ]",
+        "price": "￥229,800"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "MPC-LVZ2 [小型デスクトップパソコン/Intel Pentium Silver N5030/メモリー4GB/eMMC 64GB/Windows 10 IoT Enterprise搭載]",
+        "price": "￥69,080"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI7G60YC25CNHB3 [ゲーミングデスクトップパソコン G-Tune/Core i7-13700F/メモリ 32GB/SSD 500GB/GeForce RTX 4060/Windows 11 Home]",
+        "price": "￥259,800"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ/8コアCPU/8コアGPU/SSD 512GB/メモリ 8GB/ピンク [MGPN3J/A]",
+        "price": "￥230,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI577T-DNLBC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i7-1355U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/ダークシャドウグレー]",
+        "price": "￥193,800"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "PKP-98NX3 [抗菌仕様キーボード防塵カバー NEC VALUESTAR U キーボードNo.KB-3920 クリア]",
+        "price": "￥1,900"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "NAB0-32/512-W11Pro（1240P） [ミニパソコン/Core i5-1240P/Iris Xe Graphics eligible/メモリ 32GB/SSD 512GB/Windows 11 Pro]",
+        "price": "￥114,800"
+    },
+    {
+        "maker": "MSI エムエスアイ",
+        "name": "PRO DP180 13TC-025JP [ビジネス向けデスクトップパソコン/Core i7-13700F/メモリ 16GB/SSD 1TB/GeForce RTX 3060/Windows 11 Pro/Office Home ＆ Business 2021]",
+        "price": "￥250,800"
+    },
+    {
+        "maker": "MSI エムエスアイ",
+        "name": "PRO DP180 13SA-026JP [ビジネス向けデスクトップパソコン/Core i5-13400F/メモリ 16GB/SSD 512GB/GeForce GTX 1650/Windows 11 Pro/Office Home ＆ Business 2021]",
+        "price": "￥184,800"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "D3U1600-2G [デスクトップパソコン用メモリ DDR3 PC3-12800 240Pin DIMM 2GB]",
+        "price": "￥3,920"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "PN53-S5097AD [超小型ミニパソコン/Ryzen 5 7535H/メモリ 8GB/SSD 256GB/Windows 11 Home/ブラック]",
+        "price": "￥97,150"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI5G1BYC25CNHB3 [ゲーミングデスクトップパソコン G-Tune/Core i5-13400F/メモリ 32GB/SSD 500GB/GeForce GTX 1650/Windows 11 Home]",
+        "price": "￥179,800"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "GK41-8/128-W10Pro（J4125） [小型デスクトップパソコン/CPU：Intel（R） Celeron（R） Processor J4125/メモリ：8GB/ストレージ：M.2 SSD 128GB/Windows 10 Pro 64bit]",
+        "price": "￥40,690"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI7G70YC45CNHB3 [ゲーミングデスクトップパソコン G-Tune/Core i7-13700F/メモリ 64GB/SSD 500GB/GeForce RTX 4070/Windows 11 Home]",
+        "price": "￥314,800"
+    },
+    {
+        "maker": "ECS イーシーエス",
+        "name": "LIVAZ-4/64-W10（N3350） IOT [小型デスクトップパソコン/Celeron/メモリ 4GB/eMMC 64GB/Windows 10 IOT]",
+        "price": "￥48,390"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI557-DNHBBC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i5-1335U/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ダークシャドウグレー]",
+        "price": "￥179,800"
+    },
+    {
+        "maker": "HP",
+        "name": "767R3PA-AABL [Victus 15L Gaming TG02-0000 G1モデル （i7/16GB/512GB+2TB/Win11/RTX3050）]",
+        "price": "￥198,000"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "RR536-1100-R31 [ゲーミングデスクトップパソコン ガレリア/Core i5-13400F/RTX 3060/メモリ 16GB/SSD 500GB/Windows 11 Home]",
+        "price": "￥229,980"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-HP7N [hp USB 320 キーボード（日本語）用シリコンキーボードカバー]",
+        "price": "￥2,310"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-TDELL4 [キーボードカバー]",
+        "price": "￥816"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "A3402WBAK-I31215LUO [デスクトップパソコン/ASUS A3402WBAK/23.8型/Core i3-1215U/メモリ 8GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ブラック]",
+        "price": "￥137,550"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "SI50-DNL [スモールデスクトップ/Inspiron 3020S スモールデスクトップ/Core i5-13400/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/ブラック]",
+        "price": "￥121,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI759-DNHBWC [一体型デスクトップ/Inspiron 27 7720 オールインワン/27.0型/Core i5-1335U/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/パールホワイト]",
+        "price": "￥186,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "RR516S-1500-R31 [ゲーミングデスクトップパソコン ガレリア/Core i5-13400F/GTX 1660SUPER/メモリ 16GB/SSD 500GB/Windows 11 Home]",
+        "price": "￥199,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "XR736T-1100-R31 [ゲーミングデスクトップパソコン ガレリア/Core i7-13700F/RTX 3060Ti/メモリ 16GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥289,980"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI557-DNLBC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i5-1335U/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/ダークシャドウグレー]",
+        "price": "￥157,800"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90VH004MJP [ゲーミングデスクトップパソコン/LOQ Tower 17IRB8/Core i7-13700F/GeForce RTX 3060（LHR）/メモリ 16GB/SSD 1TB/Windows 11 Home/Office Home ＆ Business 2021/ブラック]",
+        "price": "￥264,000"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90T100BMJP [ゲーミングデスクトップPC/IdeaCentre Gaming 570i/ Core i7/GeForceRTX 3060（LHR）/SSD 1TB/メモリ 16GB/Windows 11 Home/Microsoft Office Home ＆ Business 2021/ブラック]",
+        "price": "￥250,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "XR748-1100-R31 [ゲーミングデスクトップパソコン ガレリア/Core i7-13700F/RTX 4080/メモリ 16GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥469,980"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI537-DNLBC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i3-1315U/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/ダークシャドウグレー]",
+        "price": "￥137,000"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-MULTI2N [キーボード防塵カバー マルチタイプ]",
+        "price": "￥1,628"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "PKP-MACK4 [抗菌仕様キーボード防塵カバー Apple Touch ID搭載 Magic Keyboard テンキー付（JIS）クリア]",
+        "price": "￥2,050"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-TSKB109UP [キーボードカバー（SKB-109U/P・BS6シリーズ用）]",
+        "price": "￥1,560"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "PKP-DE13 [抗菌仕様キーボード防塵カバー DELL USBキーボード KB-212-B（日本語） クリア]",
+        "price": "￥2,230"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI577T-DNHBWC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i7-1355U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/パールホワイト]",
+        "price": "￥215,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI779T-DNHBBC [一体型デスクトップ/Inspiron 27 7720 オールインワン/27.0型/Core i7-1355U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB＋HDD 1TB/Windows 11 Home/Office Home ＆ Business 2021/ダークシャドウグレー]",
+        "price": "￥245,800"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI5G1BYC25CNHW3 [ゲーミングデスクトップパソコン G-Tune ホワイトモデル/Core i5-13400F/メモリ 32GB/SSD 500GB/GeForce GTX 1650/Windows 11 Home]",
+        "price": "￥184,800"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-TFMV325 [キーボードカバー]",
+        "price": "￥879"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "M5401WYAK-WA009W [デスクトップパソコン/ASUS ZenAiO 24 M5401WYAK/23.8型/Ryzen 7 5825U/メモリ 16GB/SSD 512G/HDD 1TB/Windows 11 Home/ホワイト]",
+        "price": "￥174,800"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "PKP-MACK3 [抗菌仕様キーボード防塵カバー Apple Touch ID搭載 Magic Keyboard （JIS） クリア]",
+        "price": "￥1,950"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90T100BLJP [ゲーミングデスクトップPC/IdeaCentre Gaming 570i/ Core i5/GeForce GTX 1660 SUPER/ SSD 512GB/メモリ 8GB/Windows 11 Home /Microsoft Office Home ＆ Business 2021/ブラック]",
+        "price": "￥168,300"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "DA90-DNLCW [ゲーミングデスクトップPC/Alienware Aurora R15/Core i7-13700KF/GeForce RTX 3070 LHR/メモリ 32GB/SSD 1TB＋HDD 2TB/Windows 11 Home/ルナライト（シルバーホワイト）]",
+        "price": "￥439,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI537-DNHBBC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i3-1315U/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/Office Home ＆ Business 2021/ダークシャドウグレー]",
+        "price": "￥159,800"
+    },
+    {
+        "maker": "ECS イーシーエス",
+        "name": "LIVAZ3-8/128-W11Pro（N6000） [小型デスクトップパソコン/Celeron Processor N6000/メモリ 8GB/eMMC 128GB/Windows 11 Pro]",
+        "price": "￥65,340"
+    },
+    {
+        "maker": "ビット・トレード・ワン Bit Trade One",
+        "name": "BFSKGEN [ノンスリップシート]",
+        "price": "￥1,650"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "XR747T-1100-R31 [ゲーミングデスクトップパソコン ガレリア/Core i7-13700F/RTX 4070Ti/メモリ 16GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥399,980"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-FMV323N [富士通 FMV-DESKTOPシリーズ用 シリコン製キーボードカバー]",
+        "price": "￥1,430"
+    },
+    {
+        "maker": "ECS イーシーエス",
+        "name": "LIVAQ3P-8/128-W10Pro（V1605B） [小型デスクトップパソコン/Ryzen Embedded V1605B/メモリ 8GB/eMMC 128GB/Windows 10 Pro]",
+        "price": "￥88,680"
+    },
+    {
+        "maker": "HP",
+        "name": "613V6PA-AAAB [一体型デスクトップ HP 27-cb0000 AiO G1モデル/Ryzen 5/メモリ 8GB/SSD 256GB＋HDD 2TB/Windows 11 Home/Office Home ＆ Business 2019/スターリーホワイト]",
+        "price": "￥180,400"
+    },
+    {
+        "maker": "ECS イーシーエス",
+        "name": "LIVAZ3-8/128-W10IoT（N6000） [小型デスクトップパソコン/Pentium N6000/メモリ 8GB/eMMC 128GB/Windows 10 IoT Enterprise LTSC]",
+        "price": "￥69,780"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SL-63 [ノート・デスクトップパソコンセキュリティ]",
+        "price": "￥2,140"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-TFMV327 [富士通 ESPRIMO FMV-KB327用 キーボードカバー]",
+        "price": "￥1,330"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "PCMI117P21J-B [Windows11 Pro搭載デスクトップパソコン/Corei7-11700/メモリ 8GB/SSD 512GB （NVMe）/インテル UHD グラフィックス 750/DVDスーパーマルチドライブ/Windows11 Pro 64bit/Office Home ＆ Business 2021]",
+        "price": "￥184,800"
+    },
+    {
+        "maker": "KBカバー ケービーカバー",
+        "name": "PT-M-CC [キーボードカバー Pro Tools MacBook MacBook Pro MacBook Air用]",
+        "price": "￥3,670"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI557-DNLWC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i5-1335U/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/パールホワイト]",
+        "price": "￥157,800"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "D3U1600-8G [デスクトップパソコン用メモリ DDR3 PC3-12800 240Pin DIMM 8GB]",
+        "price": "￥13,920"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-CAPSET2 [キーボードマルチカバー シャワーキャップタイプ 小サイズ 3枚セット]",
+        "price": "￥1,490"
+    },
+    {
+        "maker": "ダイヤテック",
+        "name": "FPGS3-M2TL [Perfect Grip Sheet for FILCO Majestouch/Majestouch2 テンキーレス用 グリップシート]",
+        "price": "￥2,140"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-SNXV52W [NEC VersaPro/J E/C世代 （テンキーあり）用キーボードカバー]",
+        "price": "￥2,600"
+    },
+    {
+        "maker": "イノプレッソ INNOPRESSO",
+        "name": "MKB316-SC [INNOPRESSO タッチパッド内蔵 ワイヤレスキーボード mokibo 専用スマートカバースタンド ブラック]",
+        "price": "￥3,930"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-TFMV323 [富士通 FMV-KB323キーボード用カバー]",
+        "price": "￥1,100"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "PKP-HPD1 [抗菌仕様キーボード防塵カバー HP Desktop クリア]",
+        "price": "￥1,970"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI567T-DNLWC [一体型デスクトップ/Inspiron 24 5420 オールインワン/23.8型/Core i5-1335U/Iris Xe グラフィックス/メモリ 16GB/SSD 512GB/Windows 11 Home/パールホワイト]",
+        "price": "￥175,800"
+    },
+    {
+        "maker": "レイトレック raytrek",
+        "name": "4CR7F-47-3100 R32 [デスクトップパソコン/レイトレック/Core i7-13700F/GeForce RTX 4070 12GB GDDR6X/メモリ 32GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥319,980"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI7G70YC25CNHW3 [ゲーミングデスクトップパソコン G-Tune ホワイトモデル/Core i7-13700F/メモリ 32GB/SSD 500GB/GeForce RTX 4070/Windows 11 Home]",
+        "price": "￥309,800"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "GTSPCMI127G306P22H [スリムゲーミングデスクトップパソコン/Core i7/メモリ 16GB/SSD 1TB （NVMe）/HDD 1TB/GeForce RTX 3060/DVDスーパーマルチドライブ/Windows11 Pro]",
+        "price": "￥329,800"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI7G60YC25CNHW3 [ゲーミングデスクトップパソコン G-Tune ホワイトモデル/Core i7-13700F/メモリ 32GB/SSD 500GB/GeForce RTX 4060/Windows 11 Home]",
+        "price": "￥264,800"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI7G70YC25CNHB3 [ゲーミングデスクトップパソコン G-Tune/Core i7-13700F/メモリ 32GB/SSD 500GB/GeForce RTX 4070/Windows 11 Home]",
+        "price": "￥304,800"
+    },
+    {
+        "maker": "レノボ･ジャパン Lenovo",
+        "name": "90SM0060JP [デスクトップPC/ IdeaCentre 370i/ Pentium Gold G7400/HDD 1TB/メモリ 4GB/Windows 11 Home /グレー]",
+        "price": "￥82,280"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "D3U1600-4G [デスクトップパソコン用メモリ DDR3 PC3-12800 240Pin DIMM 4GB]",
+        "price": "￥7,160"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-FMV325N [シリコンキーボードカバー]",
+        "price": "￥1,790"
+    },
+    {
+        "maker": "HP",
+        "name": "613V6PA-AAAA [一体型デスクトップ HP 27-cb0000 AiO G1モデル/Ryzen 5/メモリ 8GB/SSD 256GB＋HDD 2TB/Windows 11 Home/スターリーホワイト]",
+        "price": "￥158,400"
+    },
+    {
+        "maker": "MSI エムエスアイ",
+        "name": "Trident X2 13NUI-028JP [ウルトラハイエンドゲーミングデスクトップパソコン/Core i9-13900KF/メモリ 32GB/SSD 2TB/GeForce RTX 4090/Windows 11 Pro/2年保証/数量限定]",
+        "price": "￥954,800"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "DA90-CWLCB [ゲーミングデスクトップ/Alienware Aurora R13/Core i7-12700KF/メモリ 32GB/SSD 512GB＋HDD 2TB/Windows 11 Home/ダークグレー]",
+        "price": "￥435,380"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "RR536T-1500-YC31-740 [ゲーミングデスクトップパソコン/ガレリア/Core i5-13400F/GTX 1660SUPER/メモリ 16GB/SSD 500GB/Windows 11 Home]",
+        "price": "￥247,980"
+    },
+    {
+        "maker": "MSI エムエスアイ",
+        "name": "Creator P50 13TC-251JP [クリエイター向けデスクトップパソコン/Core i5-13400F/メモリ 16GB/SSD 512GB＋HDD 1TB/GeForce RTX 3060/Windows 11 Pro]",
+        "price": "￥198,000"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ZR9K49-1100-YC31-307 [ゲーミングデスクトップパソコン/ガレリア/Core i9-13900KF/RTX 4080/メモリ 16GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥724,980"
+    },
+    {
+        "maker": "エイサー Acer",
+        "name": "PO5-650-H73Z/407T [ゲーミングデスクトップPC/Predator Orion 5000/Core i7-13700F/GeForce RTX 4070 Ti/メモリ 32GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥398,800"
+    },
+    {
+        "maker": "MSI エムエスアイ",
+        "name": "Trident X2 13NUF-065JP [ゲーミングデスクトップパソコン/Core i7-13700KF/メモリ 32GB/SSD 1TB/GeForce RTX 4070 Ti/Windows 11 Home]",
+        "price": "￥498,740"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ZR7K47T-1100-YC31-1335 [ゲーミングデスクトップパソコン/ガレリア/Core i7-13700KF/RTX 3060Ti/メモリ 16GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥494,980"
+    },
+    {
+        "maker": "ECS イーシーエス",
+        "name": "LIVAZ3-8/64-W11Pro（N5100） [小型デスクトップパソコン/Celeron Processor N5100/メモリ 8GB/eMMC 64GB/Windows 11 Pro]",
+        "price": "￥56,170"
+    },
+    {
+        "maker": "プリンストン PRINCETON",
+        "name": "PDD3/1600-8G×2 [デスクトップパソコン用メモリ DDR3 PC3-12800 8GB×2枚組]",
+        "price": "￥37,700"
+    },
+    {
+        "maker": "プリンストン PRINCETON",
+        "name": "PDD3/1600-8G [デスクトップパソコン用メモリ DDR3 PC3-12800 8GB]",
+        "price": "￥11,030"
+    },
+    {
+        "maker": null,
+        "name": "【まとめ買い割引】デスクトップパソコン＋セキュリティソフトセット [ミニズフォーラム MINISFORUM N40-4/64-W10Pro（N4020） 小型デスクトップパソコン/CPU：Intel Celeron Processor N4020/メモリ：4GB/ストレージ：eMMC 64GB＋ウイルスバスター クラウド 3年版]",
+        "price": "￥39,910"
+    },
+    {
+        "maker": "ECS イーシーエス",
+        "name": "LIVAZ3-4/64-W11Pro（N4500） [小型デスクトップパソコン/Celeron N4500/メモリ 4GB/eMMC 64GB/Windows 11 Pro]",
+        "price": "￥50,560"
+    },
+    {
+        "maker": "KBカバー ケービーカバー",
+        "name": "PT-AK-CC [キーボードカバー ProTools Apple Ultra-Thin Aluminium keyboard用]",
+        "price": "￥5,200"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "FA-MULTI4 [マルチキーボードカバー使い捨て100枚入り]",
+        "price": "￥11,490"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "CPUWALLMNT [PCホルダー デスクトップパソコン用アジャスタブルホルダー]",
+        "price": "￥5,730"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SL-43 [ノート・デスクトップパソコンセキュリティ]",
+        "price": "￥4,500"
+    },
+    {
+        "maker": "プリンストン PRINCETON",
+        "name": "PDD3/1333-2G [デスクトップパソコン用メモリ DDR3/1333 PC3-10600 2GB]",
+        "price": "￥6,390"
+    },
+    {
+        "maker": "プリンストン PRINCETON",
+        "name": "PDD3/1066-2G 2GB PC3-8500 DDR3 240pin SD [PDD3/1066-2G [デスクトップパソコン用メモリ DDR3/1066 PC3-8500 2GB]]",
+        "price": "￥6,520"
+    },
+    {
+        "maker": "プリンストン PRINCETON",
+        "name": "PDD3/1333-2GX2 [デスクトップパソコン用メモリ DDR3/1333 PC3-10600 2GB×2枚組]",
+        "price": "￥25,660"
+    },
+    {
+        "maker": "日本トラストテクノロジー JAPAN TRUST TECHNOLOGY",
+        "name": "PITALITH-FJ [キーボードカバー 279mm×115mm×5mm ホワイト]",
+        "price": "￥3,270"
+    },
+    {
+        "maker": "KBカバー ケービーカバー",
+        "name": "FC-M-JIS-CC [MacBook MacBook Pro MacBook Air]",
+        "price": "￥4,260"
+    },
+    {
+        "maker": "ダイヤテック",
+        "name": "FPGS3-M2F [Perfect Grip Sheet for FILCO Majestouch/Majestouch2用 フルサイズ グリップシート]",
+        "price": "￥2,140"
+    },
+    {
+        "maker": "ダイヤテック",
+        "name": "FPGS3-MC2F [Perfect Grip Sheet for FILCO Majestouch Convertible2 フルサイズ用 グリップシート]",
+        "price": "￥2,290"
+    },
+    {
+        "maker": "KBカバー ケービーカバー",
+        "name": "FCPX-AK-JIS-CC [Apple ULTRA-THIN ALUMINIU]",
+        "price": "￥5,480"
+    },
+    {
+        "maker": "KBカバー ケービーカバー",
+        "name": "FC-AK-JIS-CC [Apple ULTRA-THIN ALUMINIUM]",
+        "price": "￥5,480"
+    },
+    {
+        "maker": "日本トラストテクノロジー JAPAN TRUST TECHNOLOGY",
+        "name": "PITALITH-PJ [キーボードカバー 279mm×131mm×5mm]",
+        "price": "￥3,270"
+    },
+    {
+        "maker": "第一精工舎",
+        "name": "G-03P [超抗菌 キーボードカバー]",
+        "price": "￥1,520"
+    },
+    {
+        "maker": "プリンストン PRINCETON",
+        "name": "PDD3/1600-2G [デスクトップパソコン用メモリ DDR3 PC3-12800 2GB]",
+        "price": "￥4,040"
+    },
+    {
+        "maker": "KBカバー ケービーカバー",
+        "name": "FCPX-AK-CC [Apple ULTRA-THIN ALUMINIUM KE]",
+        "price": "￥4,740"
+    },
+    {
+        "maker": "ビット・トレード・ワン Bit Trade One",
+        "name": "BFSKUP [ノンスリップシート]",
+        "price": "￥1,650"
+    },
+    {
+        "maker": "KBカバー ケービーカバー",
+        "name": "FC-M-CC [キーボードカバー FinalCut MacBook MacBook Pro MacBook Air用]",
+        "price": "￥4,400"
+    },
+    {
+        "maker": "プリンストン PRINCETON",
+        "name": "PDD3/1066-2GX2 2GBX2 PC3-8500 DDR3 240pi [PDD3/1066-2GX2 [デスクトップパソコン用メモリ DDR3/1066 PC3-8500 2GB×2枚組]]",
+        "price": "￥25,590"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple Mac Studio Apple M2 Maxチップ カスタマイズモデル（CTO）",
+        "price": "￥326,800"
+    },
+    {
+        "maker": "ミニスフォーラム MINISFORUM",
+        "name": "UN1265W-32/1T-W11Pro（12650H） [ミニパソコン/Core i7-12650H/メモリ 32GB/SSD 1TB/Windows 11 Pro]",
+        "price": "￥102,200"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ（8コアCPU/8コアGPU） カスタマイズモデル（CTO）",
+        "price": "￥202,800"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "mouseスリムデスクトップパソコン Core i5-12400/メモリ 16GB カスタマイズモデル（CTO）",
+        "price": "￥164,800"
+    },
+    {
+        "maker": "MSI エムエスアイ",
+        "name": "Trident AS 13NUC5-494JP [ゲーミングデスクトップPC Core i5-13400F/メモリ16GB/SSD 1TB/GeForce RTX 4060/Wi-Fi 6E/Windows 11 Home]",
+        "price": "￥230,780"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-2631]",
+        "price": "￥549,980"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple Mac Pro Apple M2 Ultraチップ カスタマイズモデル（CTO）",
+        "price": "￥1,048,800"
+    },
+    {
+        "maker": null,
+        "name": "【パソコン安心スタートパック】 [ミニスフォーラム デスクトップパソコン UHD Graphics/Windows 11 Pro TH60-16/512-W11Pro（11400H） ＋ ウイルスバスター ＋ ノートン IDアドバイザー ＋ ソースネクスト 厳選バラエティパック]",
+        "price": "￥71,200"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-200]",
+        "price": "￥289,480"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple iMac 24インチ Retina 4.5Kディスプレイ Apple M1チップ（8コアCPU/7コアGPU） カスタマイズモデル（CTO）",
+        "price": "￥178,800"
+    },
+    {
+        "maker": "アップル Apple",
+        "name": "Apple Mac Studio Apple M2 Ultraチップ カスタマイズモデル（CTO）",
+        "price": "￥654,800"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "mouseスリムデスクトップパソコン Core i7-12700/メモリ 32GB カスタマイズモデル（CTO）",
+        "price": "￥216,100"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DAIV FXシリーズ デスクトップパソコン Core i7-13700F/RTX 3060 カスタマイズモデル（CTO）",
+        "price": "￥399,800"
+    },
+    {
+        "maker": "ECS イーシーエス",
+        "name": "LIVAQ3P-4/64-W10Pro（R1505G） [小型デスクトップパソコン/Ryzen Embedded R1505G/メモリ 4GB/eMMC 64GB/Windows 10 Pro]",
+        "price": "￥66,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/GTX 1660S/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-1711]",
+        "price": "￥247,980"
+    },
+    {
+        "maker": "GIGABYTE ギガバイト",
+        "name": "AORUS GPC-04R3060R57XW [ゲーミングデスクトップパソコン/GIGABYTE AORUS GAMING PC/Ryzen 7 5700X/GeForce RTX 3060/メモリ 16GB/SSD 500GB/Windows 11 Home]",
+        "price": "￥183,170"
+    },
+    {
+        "maker": null,
+        "name": "【パソコン安心スタートパック】 [ECS デスクトップパソコン Celeron Processor N6000/eMMC 128GB/Windows 11 Pro LIVAZ3-8/128-W11Pro（N6000） ＋ ウイルスバスター ＋ ノートン IDアドバイザー ＋ ソースネクスト 厳選バラエティパック]",
+        "price": "￥62,350"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "mouseスリムデスクトップパソコン Core i7-12700/メモリ 16GB カスタマイズモデル（CTO）",
+        "price": "￥199,800"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI7G6TYC25CNHW3 [ゲーミングデスクトップパソコン G-Tune/Core i7-13700F/GeForce RTX 4060 Ti/メモリ 32GB/SSD 500GB/Windows11 Home/ホワイト]",
+        "price": "￥284,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3070/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-40]",
+        "price": "￥533,480"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "MousePro コンパクトデスクトップパソコン Core i5-1235U/メモリ 8GB  カスタマイズモデル（CTO）",
+        "price": "￥154,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4090/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-2971]",
+        "price": "￥807,480"
+    },
+    {
+        "maker": "エイサー Acer",
+        "name": "PO5-650-H73Z/408 [ゲーミングデスクトップPC/Predator Orion 5000/Core i7-13700F/GeForce RTX 4080/メモリ 32GB/SSD 1TB/Windows 11 Home]",
+        "price": "￥488,800"
+    },
+    {
+        "maker": "MSI エムエスアイ",
+        "name": "Trident X2 13NUG-029JP [ハイエンドゲーミングデスクトップパソコン/Core i7-13700KF/メモリ 32GB/SSD 1TB/GeForce RTX 4080/Windows 11 Pro/2年保証/数量限定]",
+        "price": "￥613,800"
+    },
+    {
+        "maker": "GIGABYTE ギガバイト",
+        "name": "AORUS GPC-04R3060I127W [ゲーミングデスクトップパソコン/GIGABYTE AORUS GAMING PC/Core i7-12700/GeForce RTX 3060/メモリ 16GB/SSD 500GB/Windows 11 Home]",
+        "price": "￥208,440"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "MousePro コンパクトデスクトップパソコン Core i5-1235U/メモリ 16GB  カスタマイズモデル（CTO）",
+        "price": "￥162,500"
+    },
+    {
+        "maker": "デル DELL",
+        "name": "AI759-DNLWC [一体型デスクトップ/Inspiron 27 7720 オールインワン/27.0型/Core i5-1335U/UHD グラフィックス/メモリ 8GB/SSD 512GB/Windows 11 Home/パールホワイト]",
+        "price": "￥164,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060Ti/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-1279]",
+        "price": "￥297,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3070/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-1983]",
+        "price": "￥527,980"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DAIV FXシリーズ デスクトップパソコン Core i9-13900KF/RTX 4090 カスタマイズモデル（CTO）",
+        "price": "￥749,800"
+    },
+    {
+        "maker": "ECS イーシーエス",
+        "name": "LIVAZ3-4/64-W10IoT（N4500） [小型デスクトップパソコン/Celeron N4500/メモリ 4GB/eMMC 64GB/Windows 10 IoT Enterprise LTSC]",
+        "price": "￥56,890"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "MousePro コンパクトデスクトップパソコン Core i3-1215U/メモリ 32GB  カスタマイズモデル（CTO）",
+        "price": "￥156,300"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DAIV FXシリーズ デスクトップパソコン Core i7-13700KF/RTX 3060 カスタマイズモデル（CTO）",
+        "price": "￥409,800"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DAIV FXシリーズ デスクトップパソコン Core i9-13900KF/RTX 3060 カスタマイズモデル（CTO）",
+        "price": "￥449,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3070/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-1497]",
+        "price": "￥533,480"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "mouseスリムデスクトップパソコン Core i5-12400/メモリ 32GB カスタマイズモデル（CTO）",
+        "price": "￥179,100"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3070/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-1012]",
+        "price": "￥505,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-2145]",
+        "price": "￥571,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4090/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-2976]",
+        "price": "￥807,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/GTX 1660S/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-416]",
+        "price": "￥269,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-524]",
+        "price": "￥283,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4080/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-761]",
+        "price": "￥746,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4090/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-1890]",
+        "price": "￥779,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-102]",
+        "price": "￥708,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-688]",
+        "price": "￥571,980"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DAIV FXシリーズ デスクトップパソコン Core i7-13700KF/RTX 4070 Ti カスタマイズモデル（CTO）",
+        "price": "￥529,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060Ti/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-632]",
+        "price": "￥291,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3060Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-2307]",
+        "price": "￥516,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3060Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-2793]",
+        "price": "￥494,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3070/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-526]",
+        "price": "￥527,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-848]",
+        "price": "￥261,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4090/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-2759]",
+        "price": "￥801,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/GTX 1660S/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-1063]",
+        "price": "￥275,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4090/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-2751]",
+        "price": "￥801,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-2]",
+        "price": "￥680,980"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "MousePro コンパクトデスクトップパソコン Core i3-1215U/メモリ 8GB  カスタマイズモデル（CTO）",
+        "price": "￥139,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3060Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-850]",
+        "price": "￥516,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-68]",
+        "price": "￥702,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4090/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-1]",
+        "price": "￥779,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-3]",
+        "price": "￥680,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4080/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-752]",
+        "price": "￥746,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060Ti/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-308]",
+        "price": "￥297,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060Ti/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-1927]",
+        "price": "￥269,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-1819]",
+        "price": "￥261,980"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "MousePro コンパクトデスクトップパソコン Core i3-1215U/メモリ 16GB  カスタマイズモデル（CTO）",
+        "price": "￥147,500"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-1171]",
+        "price": "￥289,480"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "MousePro コンパクトデスクトップパソコン Core i5-1235U/メモリ 32GB  カスタマイズモデル（CTO）",
+        "price": "￥171,300"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DAIV FXシリーズ デスクトップパソコン Core i9-13900KF/RTX 4070 Ti カスタマイズモデル（CTO）",
+        "price": "￥569,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-1495]",
+        "price": "￥283,980"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DAIV FXシリーズ デスクトップパソコン Core i7-13700F/RTX 4090 カスタマイズモデル（CTO）",
+        "price": "￥699,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3060Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-1821]",
+        "price": "￥522,480"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DAIV FXシリーズ デスクトップパソコン Core i7-13700KF/RTX 4090 カスタマイズモデル（CTO）",
+        "price": "￥709,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/GTX 1660S/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-92]",
+        "price": "￥275,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-202]",
+        "price": "￥577,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-1659]",
+        "price": "￥577,480"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DAIV FXシリーズ デスクトップパソコン Core i7-13700F/RTX 4070 Ti カスタマイズモデル（CTO）",
+        "price": "￥519,800"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-64]",
+        "price": "￥702,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3070/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-2469]",
+        "price": "￥505,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/GTX 1660S/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-1387]",
+        "price": "￥269,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4080/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-315]",
+        "price": "￥724,980"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i7-13700KF/RTX 3060Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR7K47T1100YC31-364]",
+        "price": "￥522,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i5-13400F/RTX 3060Ti/メモリ 16GB/SSD 500GB カスタマイズモデル [RR536T1100YC31-1603]",
+        "price": "￥291,980"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI7G6TYC45CNHB3 [ゲーミングデスクトップパソコン G-Tune/Core i7-13700F/GeForce RTX 4060 Ti/メモリ 64GB/SSD 500GB/Windows11 Home/ブラック]",
+        "price": "￥289,800"
+    },
+    {
+        "maker": "マウスコンピューター mouse computer",
+        "name": "DGI7G6TYC25CNHB3 [ゲーミングデスクトップパソコン G-Tune/Core i7-13700F/GeForce RTX 4060 Ti/メモリ 32GB/SSD 500GB/Windows11 Home/ブラック]",
+        "price": "￥279,800"
+    },
+    {
+        "maker": null,
+        "name": "【パソコン安心スタートパック】 [ECS デスクトップパソコン Ryzen Embedded R1505G/eMMC 64GB/Windows 10 Pro LIVAQ3P-4/64-W10Pro（R1505G） ＋ ウイルスバスター ＋ ノートン IDアドバイザー ＋ ソースネクスト 厳選バラエティパック]",
+        "price": "￥58,490"
+    },
+    {
+        "maker": null,
+        "name": "【パソコン安心スタートパック】 [ECS デスクトップパソコン Ryzen Embedded V1605B/eMMC 128GB/Windows 10 Pro LIVAQ3P-8/128-W10Pro（V1605B） ＋ ウイルスバスター ＋ ノートン IDアドバイザー ＋ ソースネクスト 厳選バラエティパック]",
+        "price": "￥80,690"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4080/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-917]",
+        "price": "￥752,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4080/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-910]",
+        "price": "￥752,480"
+    },
+    {
+        "maker": "ガレリア GALLERIA",
+        "name": "ゲーミングデスクトップパソコン ガレリア Core i9-13900KF/RTX 4070Ti/メモリ 16GB/SSD 1TB カスタマイズモデル [ZR9K491100YC31-103]",
+        "price": "￥708,480"
+    },
+    {
+        "maker": "プリンストン PRINCETON",
+        "name": "PDD3/1600-2G×2 [デスクトップパソコン用メモリ DDR3 PC3-12800 2GB×2枚組]",
+        "price": "￥8,750"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "UCAM-C820ABBK [Webカメラ 200万画素 オートフォーカス 高解像度 Full HD1920×1080ピクセル マイク内蔵 プライバシーシャッター付き ブラック]",
+        "price": "￥3,310"
+    },
+    {
+        "maker": "ロジクール Logicool",
+        "name": "M221CG [静音マウス M221 グレー]",
+        "price": "￥1,510"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "WI-U2-433DMS [エアステーション 11ac/n/a/g/b 433Mbps/150Mbps USB2.0用 無線LAN子機]",
+        "price": "￥1,920"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSH4U300U3SV [USB3.0バスパワーハブ 4ポートタイプ マグネット付 シルバー]",
+        "price": "￥1,220"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "UCAM-C520FBBK [PCカメラ/200万画素/マイク内蔵/高精細ガラスレンズ/ブラック]",
+        "price": "￥1,860"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "UCAM-C750FBBK [PCカメラ/500万画素/マイク内蔵/高精細ガラスレンズ/ブラック]",
+        "price": "￥2,640"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "UCAM-C310FBBK [PCカメラ/100万画素/マイク内蔵/高精細ガラスレンズ/ブラック]",
+        "price": "￥1,750"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "LGY-PCIE-MG2 [10GbE対応 ネットワークアダプタ PCI Expresss]",
+        "price": "￥9,160"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "UCAM-CX80FBBK [WEBカメラ 4K対応 830万画素 オートズーム機能付 ブラック]",
+        "price": "￥15,350"
+    },
+    {
+        "maker": "CREATIVE クリエイティブ",
+        "name": "SP-PBLV2-BKA [パワフルサウンド コンパクトスピーカー Creative Pebble V2]",
+        "price": "￥3,300"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "M-Y8UBBK [BlueLEDマウス EPRIM/有線/3ボタン ブラック]",
+        "price": "￥980"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSH4AE12BK [電源連動節電機能付き 4ポートセルフパワーハブ ブラック]",
+        "price": "￥1,540"
+    },
+    {
+        "maker": "エアリア AREA",
+        "name": "SD-PECPCiRi3 [PCI Local Busスロット増設ボード]",
+        "price": "￥2,920"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM2UUN [パソコン自動切替器（2：1）]",
+        "price": "￥4,440"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "Wi-Fiルーター Wi-Fi 5（11ac）対応 867＋400Mbps 360コネクト搭載 メッシュ親機機能付 コンセント直付けタイプ [WN-DX1300GRN]",
+        "price": "￥3,150"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSH4U300U3BK [USB3.0バスパワーハブ 4ポートタイプ マグネット付 ブラック]",
+        "price": "￥1,480"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSTK100BK [有線 テンキーボード Tabキー付き ブラック]",
+        "price": "￥872"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM2WHU [HDMI対応手元スイッチ付きパソコン自動切替器 2：1]",
+        "price": "￥12,650"
+    },
+    {
+        "maker": "アバーメディア AVerMedia",
+        "name": "AVT-C878 PLUS Live Gamer Portable 2 PLUS",
+        "price": "￥29,950"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "U3H-S409SBK [USBHUB3.0 スイッチ付 マグネット付 セルフパワー 4ポート ブラック]",
+        "price": "￥4,380"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "UCAM-C520FEBK [PCカメラ/200万画素/マイク内蔵/高精細ガラスレンズ/イヤホン付/ブラック]",
+        "price": "￥2,700"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "CMS-V53BK [会議用ワイドレンズカメラ]",
+        "price": "￥9,510"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KM3UU [キーボード・マウス用パソコン切替器（3：1）]",
+        "price": "￥10,500"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "LUA-U3-A2G/C [2.5GbE対応 LANアダプター Type-A Type-C 両対応]",
+        "price": "￥5,840"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "GC33Y-021 [ROG XG Mobile GC33Y 外付けGPU オフブラック]",
+        "price": "￥399,800"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "SDZ3200-C8G [PC4-3200（DDR4-3200）対応 ノートパソコン用メモリー 8GB]",
+        "price": "￥11,420"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "DE-ML01BK [モニターライト モニター掛け式 Type-C給電 サイズ49cm ケーブル2m]",
+        "price": "￥5,990"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "M-Y8UBPN [BlueLEDマウス EPRIM/有線/3ボタン ピンク]",
+        "price": "￥980"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "ETQG-US3 [USB 3.2 Gen1接続 2.5GbE LANアダプター]",
+        "price": "￥4,060"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "U2H-TZ427SBK [4ポートUSBハブ2.0 機能主義 セルフパワー 100cm ブラック]",
+        "price": "￥1,850"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "DZ3200-C8G [PC4-3200（DDR4-3200）対応 デスクトップ用メモリー 8GB]",
+        "price": "￥11,420"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSTKH08BK [スリムテンキーボード USB2.0ハブ(2ポート) Tabキー付き ブラック]",
+        "price": "￥1,230"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSTK11BK [スリムテンキーボード Tabキー付き ブラック]",
+        "price": "￥875"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "UCAM-C980FBBK [PCカメラ/800万画素/ステレオマイク内蔵/高精細ガラスレンズ/レンズフード付/ブラック]",
+        "price": "￥4,680"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM2WDPU [DisplayPort対応 手元スイッチ付き パソコン自動切替器 2：1]",
+        "price": "￥26,310"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSTKH100BK [有線テンキーボード Tabキー/USBハブ付き ブラック]",
+        "price": "￥1,030"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "U2H-TZ427BBK [USBHUB2.0 機能主義 バスパワー 4ポート 100cm ブラック]",
+        "price": "￥1,770"
+    },
+    {
+        "maker": "玄人志向",
+        "name": "SATA3-I2-PCIE2 [ASM1061搭載 SATA3 インターフェースボード]",
+        "price": "￥4,400"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM2DUN [ディスプレイエミュレーション対応 DVIパソコン自動切替器（2：1）]",
+        "price": "￥13,310"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "U3SW-T2 [USB切替器/USB3.0/PC側2ポート/接続機器4ポート/手元スイッチ/ブラック]",
+        "price": "￥7,920"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "M-Y8UBBU [BlueLEDマウス EPRIM/有線/3ボタン ブルー]",
+        "price": "￥980"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "FA707RM-R76R3060BY [ゲーミングノートPC/ASUS TUF Gaming A17 FA707RM/17.3型/Ryzen 7/RTX 3060 Laptop GPU/メモリ 16GB/SSD 512GB/Windows 11 Home/メカグレー]",
+        "price": "￥159,800"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSH4AE12WH [電源連動節電機能付き 4ポートセルフパワーハブ ホワイト]",
+        "price": "￥1,540"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "U2H-TZS428BBK [USBHUB2.0 機能主義 個別スイッチ付 バスパワー 4ポート 100cm ブラック]",
+        "price": "￥2,100"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "M-Y9UBBK [BlueLEDマウス EPRIM/有線/5ボタン ブラック]",
+        "price": "￥1,480"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM2AUUN [パソコン自動切替器（2：1）]",
+        "price": "￥8,640"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "USB-AADC01BK [USBオーディオ変換アダプタ ブラック]",
+        "price": "￥1,770"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "M-Y8UBRD [BlueLEDマウス EPRIM/有線/3ボタン レッド]",
+        "price": "￥980"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "SDZ3200-C4G [PC4-3200（DDR4-3200）対応 ノートパソコン用メモリー 4GB]",
+        "price": "￥6,580"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "U2H-TZS428SBK [4ポートUSBハブ2.0 機能主義 個別スイッチ付 セルフパワー 100cm ブラック]",
+        "price": "￥2,030"
+    },
+    {
+        "maker": "エイスース ASUS",
+        "name": "UX8402ZA-M3033W [ノートパソコン ASUS Zenbook Pro 14 Duo OLED/14.5型/有機ELパネル/Core i7/メモリ 16GB/SSD 512GB/Windows11 Home/WPS Office 2/テックブラック]",
+        "price": "￥254,850"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM2LUN2 [パソコン自動切替器]",
+        "price": "￥11,800"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSTK120BK [Tabキー付き 有線テンキー]",
+        "price": "￥1,380"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SL-57 [パソコンセキュリティワイヤーロック（南京錠タイプ）]",
+        "price": "￥1,190"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "US3-HB3ETG2 [USB 3.2 Gen 1ハブ搭載ギガビットLANアダプター]",
+        "price": "￥3,630"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SL-58 [パソコンセキュリティワイヤーロック（ダイヤル錠タイプ）]",
+        "price": "￥1,400"
+    },
+    {
+        "maker": "エイサー Acer",
+        "name": "ASV15-1B [裸眼3D立体視対応モニター Acer SpatialLabs View/15.6型/3840×2160/HDMI2.0/スピーカー非搭載/IPS/光沢/4K/16：9/ブラック]",
+        "price": "￥249,800"
+    },
+    {
+        "maker": "MSI エムエスアイ",
+        "name": "GUAX18 [WiFi6対応USB 無線LANアダプター]",
+        "price": "￥8,580"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "M-Y9UBWH [BlueLEDマウス EPRIM/有線/5ボタン ホワイト]",
+        "price": "￥1,370"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "SDY1600L-4GR [PC3L-12800（DDR3L-1600）対応 ノートPC用メモリー 4GB]",
+        "price": "￥8,210"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "TK-HD1 [2.5”HDD/SSD変換マウンタ]",
+        "price": "￥990"
+    },
+    {
+        "maker": "マイコンソフト Micomsoft",
+        "name": "XCAPTURE-1 N [USB3.0専用 キャプチャー・ユニット]",
+        "price": "￥38,330"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "MM-SPL11UBKN [USB電源サウンドバースピーカー]",
+        "price": "￥3,820"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "USB-AADC02BK [USBオーディオ変換アダプタ ブラック]",
+        "price": "￥2,340"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSTK11WH [スリムテンキーボード Tabキー付き ホワイト]",
+        "price": "￥875"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSTK118BK [USBテンキー]",
+        "price": "￥1,620"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "CMS-V45S [オートフォーカスWEBカメラ]",
+        "price": "￥4,340"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-EDV2N2 [ディスプレイ切替器 DVI24pin用 2回路]",
+        "price": "￥14,210"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "M-Y9UBBU [BlueLEDマウス EPRIM/有線/5ボタン ブルー]",
+        "price": "￥1,480"
+    },
+    {
+        "maker": "ジャングル",
+        "name": "完全パソコン引越13",
+        "price": "￥1,680"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM4UP [PS/2・USB両対応パソコン自動切替器 4：1]",
+        "price": "￥18,210"
+    },
+    {
+        "maker": "インコ INKO",
+        "name": "IK20161-C42 [INKO HEAL Gray]",
+        "price": "￥4,950"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "SDY1600L-8GR [PC3L-12800（DDR3L-1600）対応 ノートPC用メモリー 8GB]",
+        "price": "￥18,520"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "M-Y9UBRD [BlueLEDマウス EPRIM/有線/5ボタン レッド]",
+        "price": "￥1,480"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "TK-HD252 [2.5インチHDD変換マウンタ(2台用)]",
+        "price": "￥924"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSTKH08WH [スリムテンキーボード USB2.0ハブ(2ポート) Tabキー付き ホワイト]",
+        "price": "￥1,230"
+    },
+    {
+        "maker": "SUNEAST サンイースト",
+        "name": "SE-HE001 [ヘッドセット 片耳オーバーヘッド4極 3極変換アダプターセット]",
+        "price": "￥935"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM4HDCN [デュアルリンクDVI対応 パソコン自動切替器（4：1）]",
+        "price": "￥34,720"
+    },
+    {
+        "maker": "オーム電機 OHM",
+        "name": "ASP-U170Z [USB電源スピーカー LEDイルミネーション機能付き]",
+        "price": "￥1,580"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "BSTK100WH [有線 テンキーボード Tabキー付き ホワイト]",
+        "price": "￥872"
+    },
+    {
+        "maker": "SEAGATE シーゲート",
+        "name": "ST2000VX017 [Skyhawk ハードディスクドライブ 3.5インチ 2TB]",
+        "price": "￥11,980"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "SDZ2133-8GR [PC4-2133(DDR4-2133)対応ﾉｰﾄPC用ﾒﾓﾘｰ 8GB]",
+        "price": "￥19,550"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM2DXN [ディスプレイエミュレーション対応 DVIパソコン自動切替器（2：1）]",
+        "price": "￥8,460"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "USB-2H401BKN [磁石付きスリム4ポート USB2.0ハブ]",
+        "price": "￥1,850"
+    },
+    {
+        "maker": "APEX アペックス",
+        "name": "AXK4KHCL [Aquql 4K HDMIキャプチャーL]",
+        "price": "￥12,190"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-EV2N2 [ディスプレイ切替器 ミニD-sub HD15pin用 2回路]",
+        "price": "￥10,760"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SL-60 [パソコンセキュリティワイヤーロック（ダイヤル錠タイプ）]",
+        "price": "￥1,910"
+    },
+    {
+        "maker": "クロスロード",
+        "name": "CRML-BK [モニターライト ブラック 調光調色対応]",
+        "price": "￥6,980"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SL-64 [超小型シリンダセキュリティ]",
+        "price": "￥2,670"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-EV4N2 [ディスプレイ切替器 ミニD-sub HD15pin用 4回路]",
+        "price": "￥14,740"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "MDP2DVIMM3B [Mini DisplayPort - DVI変換ケーブル 91cm Mini DP（オス） - DVI - D（オス） 1920x1200]",
+        "price": "￥1,910"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM4HVC [USB・PS/2コンソール両対応 パソコン自動切替器（4：1）]",
+        "price": "￥23,270"
+    },
+    {
+        "maker": "インコ INKO",
+        "name": "IK20162-C42 [INKO HEAL Blue]",
+        "price": "￥4,950"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "CMS-V68BK [WEBカメラ 明るさ調整機能付き]",
+        "price": "￥6,160"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "CMS-V43BK [会議用ワイドレンズカメラ ブラック]",
+        "price": "￥5,350"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "DZ2133-4GR [PC4-2133(DDR4-2133)対応ﾒﾓﾘｰ 4GB]",
+        "price": "￥10,980"
+    },
+    {
+        "maker": "クロスロード",
+        "name": "CRML-WH [モニターライト ホワイト 調光調色対応]]",
+        "price": "￥6,980"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SL-52 [カールコードセキュリティ]",
+        "price": "￥2,420"
+    },
+    {
+        "maker": "APEX アペックス",
+        "name": "AXK2KHCL [Aquql 2K HDMIキャプチャーL]",
+        "price": "￥7,410"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "DY1600-8GR [PC3-12800対応デスクトップPC用メモリー 8GB]",
+        "price": "￥18,520"
+    },
+    {
+        "maker": "システムトークス",
+        "name": "SATA-DC35H [SATA接続 スゴイディスク PRO 3.5インチ ハードディスクケース]",
+        "price": "￥5,590"
+    },
+    {
+        "maker": "エイサー Acer",
+        "name": "ASV15-1BP [裸眼3D立体視対応モニター Acer SpatialLabs View Pro/15.6型/3840×2160/HDMI2.0/スピーカー非搭載/IPS/光沢/4K/16：9/スティームブルー]",
+        "price": "￥299,800"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "HD-ID2.0TS [3.5インチ Serial ATA用 内蔵ハードディスク 2TB]",
+        "price": "￥18,080"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "SDZ2666-8G [PC4-2666(DDR4-2666)対応ノートPC用メモリー 8GB]",
+        "price": "￥17,920"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "DZ2666-16G [PC4-2666対応デスクトップPC用メモリー 16GB]",
+        "price": "￥46,640"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "DZ2133-8GR [PC4-2133(DDR4-2133)対応ﾒﾓﾘｰ 8GB]",
+        "price": "￥21,800"
+    },
+    {
+        "maker": "バッファロー BUFFALO",
+        "name": "HD-ID1.0TS [3.5インチ Serial ATA用 内蔵ハードディスク 1TB]",
+        "price": "￥10,980"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM2HVC [USB・PS/2コンソール両対応パソコン自動切替器（2：1）]",
+        "price": "￥18,520"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "USB-CVHDUVC1 [USB-HDMIカメラアダプタ（USB3.2 Gen1）]",
+        "price": "￥17,520"
+    },
+    {
+        "maker": "インコ INKO",
+        "name": "IK20163-C42 [INKO HEAL Rosewood]",
+        "price": "￥4,950"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "DY1600-4GR [PC3-12800対応デスクトップPC用メモリー 4GB]",
+        "price": "￥8,810"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "SDZ2666-4G [PC4-2666(DDR4-2666)対応ノートPC用メモリー 4GB]",
+        "price": "￥12,210"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SL-59 [パソコンセキュリティワイヤーロック（南京錠タイプ）]",
+        "price": "￥1,880"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SW-KVM2LPN2 [パソコン自動切替器（2：1）]",
+        "price": "￥6,640"
+    },
+    {
+        "maker": "サンワサプライ SANWA SUPPLY",
+        "name": "SL-066K [ノートパソコンセキュリティキット]",
+        "price": "￥1,620"
+    },
+    {
+        "maker": "エレコム ELECOM",
+        "name": "ESL-12 [コネクタ接続セキュリティロック]",
+        "price": "￥1,160"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "DZ3200-C4G [PC4-3200（DDR4-3200）対応 デスクトップ用メモリー 4GB]",
+        "price": "￥6,580"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "DP2VGAA [DisplayPort - VGA変換アダプタ オーディオ対応]",
+        "price": "￥3,880"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "SDZ2666-16G [PC4-2666対応ノートPC用メモリー 16GB]",
+        "price": "￥46,640"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "MDP2DPMM2M [Mini DisplayPort - DisplayPort 1.2変換ケーブル 2m 4K対応]",
+        "price": "￥1,890"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "DVI2VGAE [DVI-D - VGAアクティブ変換アダプタ 1080p]",
+        "price": "￥5,450"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "MDPEXT6 [Mini DisplayPort延長ケーブル 1.8m 4k対応エクステンションケーブル]",
+        "price": "￥3,870"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "MDISP1M [Mini DisplayPort 1.2 ケーブル 1m オス/オス 4K対応]",
+        "price": "￥1,890"
+    },
+    {
+        "maker": "アイリスオーヤマ IRIS OHYAMA",
+        "name": "ICA-841 [ウェブカメラ 画角84°タイプ ブラック]",
+        "price": "￥7,340"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "US1GC30W [USB Type-C有線LANアダプタ ホワイト/ギガビット対応/USB 3.1 Gen 1準拠]",
+        "price": "￥4,060"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "MDISP2M [Mini DisplayPort 1.2 ケーブル 2m 4K対応]",
+        "price": "￥2,140"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "USB31000S2H [USB 3.0有線LANアダプタ ギガビット対応 USBハブ（2ポート）搭載]",
+        "price": "￥5,110"
+    },
+    {
+        "maker": "アイリスオーヤマ IRIS OHYAMA",
+        "name": "ICA-652 [ウェブカメラ 画角65°タイプ ブラック]",
+        "price": "￥6,680"
+    },
+    {
+        "maker": "スターテックドットコム StarTech.com",
+        "name": "MDP2VGAA [Mini DisplayPort - VGA変換アダプタ オーディオ対応 mini DP（オス） - VGA（メス）]",
+        "price": "￥4,640"
+    },
+    {
+        "maker": "アイ･オー･データ機器 I-O DATA",
+        "name": "DA-FS/MPC1 [フリースタイルスタンドモデル用miniPC取付金具]",
+        "price": "￥5,500"
+    }
+]
